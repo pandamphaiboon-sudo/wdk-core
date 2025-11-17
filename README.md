@@ -1,4 +1,4 @@
-# WDK Core
+  # WDK Core
 
 **WDK** is a simple tool that enables you to manage the WDK wallet and protocol modules through a single object.
 
